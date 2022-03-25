@@ -2,8 +2,10 @@
 
 <p align="left"> 
   <a href='https://developer.mozilla.org/ja/docs/Web/JavaScript'><img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/></a>
+  <a href='https://www.typescriptlang.org/'><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
   <a href='https://jp.vuejs.org/index.html'><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
   <a href='https://nuxtjs.org/'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
+  <a href='https://reactjs.org/'><img src="https://img.icons8.com/plasticine/48/000000/react.png"/></a>
   <a href='https://dart.dev/'><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
   <a href='https://flutter.dev/'><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
   <a href='https://developer.apple.com/jp/xcode/swiftui/'><img src="https://img.icons8.com/color/48/000000/swiftui.png"/></a>
@@ -13,7 +15,7 @@
   <a href='https://www.postgresql.org/'><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 </p>
 
-___
+---
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kyon-00&theme=onedark&show_icons=ture" />
