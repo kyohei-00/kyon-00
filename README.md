@@ -17,12 +17,6 @@
 
 ---
 
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kyon-00&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kyon-00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="right">
   icon by: <a href="https://icons8.jp/">https://icons8.jp/</a>
 </p>
